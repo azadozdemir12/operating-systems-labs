@@ -2,7 +2,7 @@
 
 This repository contains 10 laboratory exercises for the Operating Systems course.  
 Each exercise demonstrates the use of essential Linux system calls, process management,  
-file operations, and thread creation using the C programming language.
+file operations, and thread creation using the C programming language
 
 All examples include:
 - C source code (`main.c`)
